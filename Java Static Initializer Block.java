@@ -8,7 +8,7 @@
             B=sc.nextInt();
             H=sc.nextInt();
             flag=false;
-            if((B>=0) && (H>=0))
+            if((B>0) && (H>0))
             {
                 flag=true;
                 //break;
