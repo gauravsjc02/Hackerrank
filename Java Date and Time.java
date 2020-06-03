@@ -1,0 +1,1 @@
+return LocalDate.of(year, month, day).getDayOfWeek().name();
